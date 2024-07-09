@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body{
+  margin: 40px; 
+  background-color: white;
+
+}
+.btn{
+  background-color: orange;
+  padding: 10px 15px;
+  margin: 10px 0 ;
+  display: inline-block;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  border:  2px orange;
+}
